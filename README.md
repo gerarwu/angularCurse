@@ -1,1 +1,1 @@
-# angular curses respository
+# Angular curses repository
